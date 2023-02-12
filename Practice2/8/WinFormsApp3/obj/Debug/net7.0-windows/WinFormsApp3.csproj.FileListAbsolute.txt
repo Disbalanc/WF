@@ -1,0 +1,17 @@
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.exe
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.deps.json
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.runtimeconfig.json
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.dll
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.pdb
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Form1.resources
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.dll
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\refint\WinFormsApp3.dll
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.pdb
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+F:\Visual\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\ref\WinFormsApp3.dll
