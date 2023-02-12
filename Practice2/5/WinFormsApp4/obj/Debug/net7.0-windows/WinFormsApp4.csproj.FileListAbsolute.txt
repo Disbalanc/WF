@@ -1,0 +1,17 @@
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.exe
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.deps.json
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.runtimeconfig.json
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.dll
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.pdb
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.Form1.resources
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfo.cs
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.dll
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\refint\WinFormsApp4.dll
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.pdb
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.genruntimeconfig.cache
+F:\Visual\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net7.0-windows\ref\WinFormsApp4.dll
